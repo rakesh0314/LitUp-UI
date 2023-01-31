@@ -1,0 +1,51 @@
+.navbar-item img {
+    max-height: none !important;
+}
+
+.navbar-link, a.navbar-item {
+    color: #1E1E1E;
+    font-weight: 700;
+}
+
+.navbar-extcolor{
+    color: #5757FF !important;
+}
+
+.right-card-btn {
+    margin-left: 68px;
+    margin-top: -67px;
+    color: #fff;
+    font-size: 14px;
+    border: 1px solid;
+    border-radius: 10px;
+    height: 23px;
+    padding: 0px 10px 6px 11px;
+    position: absolute;
+    cursor: pointer;
+}
+.left-title-main {
+    font-size: 24px;
+    color: #000000;
+    font-weight: 700;
+}
+.left-title-sub-main {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+}
+.left-pro{
+    margin-top: 10px;
+    color: #000000;
+
+}
+.right-img{
+/*    max-width: 110% !important;*/
+}
+.right-card-tile {
+    margin-top: -58px;
+    color: #5757FF;
+    font-weight: 600;
+    position: absolute;
+    font-size: 18px;
+}
